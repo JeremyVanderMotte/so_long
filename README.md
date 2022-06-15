@@ -17,3 +17,20 @@ Keys :
   - `d` : Move right.
   - `ESC` : Shut down the window.
   -  <img width="23" alt="Screen Shot 2022-06-15 at 11 30 48 AM" src="https://user-images.githubusercontent.com/107465256/173794761-8513cff2-1e15-417b-96cc-ca32552097af.png"> : Shut down the window.
+
+Map config :
+  - The map is surronded by wall : `1`.
+  - The map contains only one exit : `E`.
+  - The map contains only one player : `P`.  
+   &emsp;➡️ If there are several player only one is kept.
+  - Yhe map contains at least 1 collectible : `C`.
+
+### Examples :  
+
+Raw map :  
+  
+<img width="447" alt="Screen Shot 2022-06-15 at 11 45 57 AM" src="https://user-images.githubusercontent.com/107465256/173797992-be85b6ad-01ff-4740-9573-af2f645817c5.png">
+
+Launched game : 
+  
+<img width="1084" alt="Screen Shot 2022-06-15 at 11 43 04 AM" src="https://user-images.githubusercontent.com/107465256/173797441-a548eb0f-c4a2-4ac3-b6c7-24d7ae5e6078.png">
